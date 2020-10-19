@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://fthmb.tqn.com/bhT7GFbij-dUR_cigoShSlOk9eo=/3024x2016/filters:fill(auto,1)/television-static-kyoshino-e-plus-getty-images-56a6fae25f9b58b7d0e5d1c3.jpg");
+  background-image: url("https://giffiles.alphacoders.com/820/820.gif");
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -36,8 +36,7 @@ p {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
-  align-items: flex-end;
-  padding: 20px;
+  align-items: flex-start;
 }
 
 .item {
