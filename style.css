@@ -1,5 +1,9 @@
 body {
-  background-image: url("https://forum.borisfx.com/uploads/default/original/2X/7/782fbb745e0d7b7eb98335fa884d212db5837f19.gif");
+  background: url("https://cdn.wallpapersafari.com/45/19/Q2nJCP.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -9,6 +13,7 @@ h1 {
 }
 
 p {
+  background-color: rgb(8, 8, 8);
   font-size: 20px;
   text-align: center;
   margin-left: 100px;
@@ -16,6 +21,11 @@ p {
 }
 
 h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
   font-size: 20px;
   text-align: center;
 }
